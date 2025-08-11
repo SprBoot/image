@@ -1,0 +1,5 @@
+﻿文件/文件夹,标签
+mapping.mp4,定位视频
+example_demo_session/raw_videos,视频路径
+example_demo_session/raw_videos/gripper_calibration,夹爪视频路径
+*.MP4,训练视频
